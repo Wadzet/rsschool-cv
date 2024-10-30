@@ -1,4 +1,4 @@
-# Vadym Zastavnyi
+## Vadym Zastavnyi
 
 **Front-end Developer**
 
@@ -62,6 +62,7 @@ function reverseString(str) {
 
 - **Microsoft Azure Bootcamp** *(Microsoft)*
 - **The Ultimate MySQL Bootcamp** *(Udemy)*
+
 ---
 
 ## Languages
@@ -69,3 +70,4 @@ function reverseString(str) {
 - **English:** B2
 - **Ukrainian:** Native
 
+---
