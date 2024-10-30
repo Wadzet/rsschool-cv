@@ -8,9 +8,9 @@
 
 ## Skills
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks/Libraries:** React, TailwindCSS, Chakra UI
-- **Tools:** WebStorm, Visual Studio Code, Git
+- **Languages:** JavaScript, SQL
+- **Frameworks/Libraries:** React, NextJS, TailwindCSS, Chakra UI
+- **Tools:** WebStorm, Visual Studio Code, GitHub Desktop, Git
 - **Other:** Particles.js, i18n, UX Design
 
 ---
