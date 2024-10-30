@@ -49,6 +49,7 @@ function reverseString(str) {
   - **Skills Used:** NextJS, Tailwind, TypeScript, Git
   - [Project GitHub](https://github.com/koldovsky/2024-itstep-next-team-03)
 
+---
 
 ## Education
 
@@ -68,4 +69,3 @@ function reverseString(str) {
 - **English:** B2
 - **Ukrainian:** Native
 
----
